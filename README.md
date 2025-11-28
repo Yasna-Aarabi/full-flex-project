@@ -20,6 +20,7 @@ All layouts are made using **Flexbox** and custom CSS.
 ![Screenshot 1](./assets/images/sc1.png)
 
 ---
+
 ![Screenshot 2](./assets/images/sc2.png)
 
 ---
@@ -32,3 +33,4 @@ All layouts are made using **Flexbox** and custom CSS.
 
 ---
 
+📎Demo: https://yasna-aarabi.github.io/full-flex-project/
